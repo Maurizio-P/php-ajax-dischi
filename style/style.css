@@ -1,0 +1,54 @@
+.top-bar{
+    background-color: #2b3a46;
+    padding: 10px;
+}
+.top-bar img{
+    height: 50px;
+    margin-left: 10px;
+}
+
+
+.card{
+    background-color: #2b3a46!important;
+    height: 100%;
+    color: #7f7d7b;
+}
+
+.container-img{
+    height: 220px;
+    position: relative;
+}
+
+.poster{
+    height: 100%;
+}
+
+.overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, .6);
+    opacity: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    backdrop-filter: blur(2px);
+}
+
+.container-img:hover .overlay{
+    opacity: 1;
+}
+
+.card-title{
+    margin-bottom: 20px;
+    color: white;
+    text-transform: uppercase;
+}
+
+#bg-color {
+    background-color: #192d3b;
+    padding: 25px;
+}
