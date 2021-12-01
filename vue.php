@@ -13,11 +13,11 @@
 </head>
 
 <body>
-    <!-- <header>
+    <header>
         <div class="top-bar">
             <img src="https://www.ore25.it/wp-content/uploads/2020/01/file-spotify-logo-png-4.png" alt="">
         </div>
-    </header> -->
+    </header>
 
     <main class="bg-color" id="app">
         <div class="container">
