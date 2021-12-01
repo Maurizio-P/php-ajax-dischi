@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__ . "/../data/users.php";
+require_once __DIR__ . "/../data/albums.php";
 
 header("Content-type: application/json");
 

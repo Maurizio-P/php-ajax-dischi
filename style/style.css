@@ -48,7 +48,7 @@
     text-transform: uppercase;
 }
 
-#bg-color {
+.bg-color {
     background-color: #192d3b;
     padding: 25px;
 }

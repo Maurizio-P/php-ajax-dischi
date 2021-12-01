@@ -20,7 +20,7 @@
       <img src="https://www.ore25.it/wp-content/uploads/2020/01/file-spotify-logo-png-4.png" alt="">
   </div>
     </header>
-    <main id="bg-color">
+    <main class="bg-color">
         <div class="container">
             <div class="row row-cols-5">
                 <?php 
